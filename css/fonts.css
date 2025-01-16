@@ -1,0 +1,59 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/Roboto-Light.woff2') format('woff2'),
+    url('../fonts/Roboto-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/Roboto-Medium.woff2') format('woff2'),
+    url('../fonts/Roboto-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'BalsamiqSans-Regular';
+    src: url('../fonts/BalsamiqSans-Regular.woff2') format('woff2'),
+    url('../fonts/BalsamiqSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BalsamiqSans-Bold';
+    src: url('../fonts/BalsamiqSans-Bold.woff2') format('woff2'),
+    url('../fonts/BalsamiqSans-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BalsamiqSans-Italic';
+    src: url('../fonts/BalsamiqSans-Italic.woff2') format('woff2'),
+    url('../fonts/BalsamiqSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
