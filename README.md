@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5ff5b6c9-68c8-4be9-b51d-c420b9f444ae)
+
 # Red Caviar Landing Page
 
 This is a simple landing page for a business selling red and black caviar. The website showcases product details, promotions, and company information. It includes the following sections:
